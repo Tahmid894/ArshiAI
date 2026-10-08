@@ -1,0 +1,8 @@
+{
+  "name": "ArshiAI",
+  "description": "ARSHI AI - Futuristic Personal Android AI Voice Assistant with Bengali & English speech recognition, multimodal personalities, and AI providers.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArshiAI</string>
+    <string name="accessibility_service_name">ArshiAI Accessibility Automation</string>
+    <string name="accessibility_service_description">ArshiAI-এর ভয়েস কমান্ডের মাধ্যমে অ্যাপ নেভিগেশন, স্ক্রলিং ও সিস্টেম কাজ সম্পন্ন করতে সাহায্য করে।</string>
+    <string name="voice_service_name">ArshiAI Background Listening</string>
+    <string name="voice_service_channel_name">ArshiAI ভয়েস সহকারী</string>
+    <string name="voice_service_notification_title">ArshiAI সহকারী সক্রিয়</string>
+    <string name="voice_service_notification_desc">ব্যাকগ্রাউন্ডে ভয়েস কমান্ড গ্রহণের জন্য প্রস্তুত</string>
+</resources>
